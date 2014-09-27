@@ -22,7 +22,7 @@
  <g transform="scale(0.56)">
   <use xlink:href="#bg" fill="url(#gradient)" />
   <g clip-path="url(#clip)">
-   <use xlink:href="#bg" x="2" y="2" opacity="0.75" mask="url(#mask)" />
+   <use xlink:href="#bg" transform="translate(2,2)" opacity="0.75" mask="url(#mask)" />
   </g>
   <g mask="url(#mask)">
    <use xlink:href="#text" x="5" y="7" opacity="0.25" filter="url(#shadow)" />
