@@ -3,7 +3,7 @@
  <g>
   <rect width="136" height="136" x="2" y="2" fill="#a50f10" />
   <path d="m 53,2 l 0,68 17,0 0,-17 17,0 0,-17 17,0 0,-17 17,0 0,-17 z" fill="#b6b6b6" />
-  <path d="m 19,139 l 0,-34 17,0 0,-17 68,0 0,17 17,0 0,34 z" fill="#dcdcdc" />
+  <path d="m 19,138 l 0,-34 17,0 0,-17 68,0 0,17 17,0 0,34 z" fill="#dcdcdc" />
   <rect width="68" height="34" x="36" y="104" fill="#606060" />
   <rect width="34" height="34" x="2" y="36" fill="#000000" />
   <rect width="34" height="34" x="104" y="36" fill="#000000" />
