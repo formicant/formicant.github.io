@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<svg width="140" height="140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<circle id="cr" cx="70" cy="70" r="40" fill="#f00" />
+		<circle id="cg" cx="70" cy="70" r="40" fill="#0f0" />
+		<circle id="cb" cx="70" cy="70" r="40" fill="#00f" />
+		<filter id="additive">
+			<feImage xlink:href="#cr" width="100%" height="100%" x="17.32" y="15" result="r">
+				<animate attributeName="x" repeatCount="indefinite" additive="sum" calcMode="spline" dur="30s" keyTimes="0; 0.5; 1" values="-10; 10; -10" keySplines="0.5 0 0.5 1; 0.5 0 0.5 1" />
+				<animate attributeName="y" repeatCount="indefinite" additive="sum" calcMode="spline" dur="110s" keyTimes="0; 0.5; 1" values="-10; 10; -10" keySplines="0.5 0 0.5 1; 0.5 0 0.5 1" />
+			</feImage>
+			<feImage xlink:href="#cg" width="100%" height="100%" x="0" y="-15" result="g">
+				<animate attributeName="x" repeatCount="indefinite" additive="sum" calcMode="spline" dur="70s" keyTimes="0; 0.5; 1" values="-10; 10; -10" keySplines="0.5 0 0.5 1; 0.5 0 0.5 1" />
+				<animate attributeName="y" repeatCount="indefinite" additive="sum" calcMode="spline" dur="190s" keyTimes="0; 0.5; 1" values="-10; 10; -10" keySplines="0.5 0 0.5 1; 0.5 0 0.5 1" />
+			</feImage>
+			<feImage xlink:href="#cb" width="100%" height="100%" x="-17.32" y="15" result="b">
+				<animate attributeName="x" repeatCount="indefinite" additive="sum" calcMode="spline" dur="50s" keyTimes="0; 0.5; 1" values="-10; 10; -10" keySplines="0.5 0 0.5 1; 0.5 0 0.5 1" />
+				<animate attributeName="y" repeatCount="indefinite" additive="sum" calcMode="spline" dur="130s" keyTimes="0; 0.5; 1" values="-10; 10; -10" keySplines="0.5 0 0.5 1; 0.5 0 0.5 1" />
+			</feImage>
+			<feBlend in="r" in2="g" result="rg" mode="screen" />
+			<feBlend in="rg" in2="b" result="rgb" mode="screen" />
+		</filter>
+	</defs>
+	<text font-size="10" text-anchor="middle">
+		<tspan x="70" y="60">Эх…</tspan>
+		<tspan x="70" y="70">Ваш браузер</tspan>
+		<tspan x="70" y="80">не поддерживает</tspan>
+		<tspan x="70" y="90">мой аватар.</tspan>
+	</text>
+	<rect x="0" y="0" width="140" height="140" fill="none" filter="url(#additive)" />
+</svg>
