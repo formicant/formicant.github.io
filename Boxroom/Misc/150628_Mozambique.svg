@@ -16,7 +16,7 @@
    id="svg2"
    xml:space="preserve"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Mozambique_location_map.svg"><metadata
+   sodipodi:docname="150628_Mozambique.svg"><metadata
      id="metadata144"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
@@ -32,9 +32,9 @@
      inkscape:window-height="480"
      id="namedview142"
      showgrid="false"
-     inkscape:zoom="0.33489798"
-     inkscape:cx="963.57113"
-     inkscape:cy="875.99606"
+     inkscape:zoom="0.57870371"
+     inkscape:cx="635.72778"
+     inkscape:cy="1378.7758"
      inkscape:current-layer="svg2" /><defs
      id="defs278" /><g
      style="display:none"
@@ -86,8 +86,9 @@
      style="fill:#1a1a1a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 800.3125,359.86719 c -7.72899,2.5997 -15.5546,4.93306 -23.50195,6.76953 10.41207,28.74894 16.26399,58.90122 20.71289,89.07812 12.40182,-13.94387 13.97453,-34.49612 9.04972,-51.89164 -1.78667,-14.76289 -3.62265,-29.51999 -5.28019,-44.29781 l -0.94427,0.32918 -0.0362,0.0126 z"
      id="path5762"
-     inkscape:connector-curvature="0" /><path
-     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 792.51172,372.91992 c -5.34539,-0.91893 -1.4805,3.54234 -1.04688,6.25977 1.20209,3.54027 2.96182,10.19486 3.52344,11.8789 -1.11107,-5.95255 -1.83621,-12.32605 -2.47656,-18.13867 z"
-     id="path5804"
-     inkscape:connector-curvature="0" /></svg>
+     inkscape:connector-curvature="0" /><circle
+     style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4146"
+     cx="791.61975"
+     cy="374.5459"
+     r="10" /></svg>
