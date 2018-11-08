@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="MenorahBinyanim.svg"
+   sodipodi:docname="2018-11-08_MenorahBinyanim.svg"
    inkscape:export-filename="bitmap.png"
    inkscape:export-xdpi="254"
    inkscape:export-ydpi="254">
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.75"
-     inkscape:cx="400"
-     inkscape:cy="560"
+     inkscape:zoom="2.2888184"
+     inkscape:cx="292.92407"
+     inkscape:cy="149.50946"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -84,32 +84,34 @@
          id="tspan928"
          x="280"
          y="506.24997"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, '">הִתפַּעֵל</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27px;font-family:Calibri;-inkscape-font-specification:'Calibri Light';">הִתפַּעֵל</tspan></text>
     <text
        id="text934"
        y="533.23193"
        x="280"
-       style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-font-specification:Calibri;font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri;"
          y="533.23193"
          x="280"
          id="tspan932"
-         sodipodi:role="line">(hit)</tspan></text>
+         sodipodi:role="line">(<tspan
+   style="-inkscape-font-specification:'Calibri Italic';font-family:Calibri;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan850">hit</tspan>)</tspan></text>
     <text
        id="text938"
        y="506.24997"
        x="360"
        style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, '"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27px;font-family:Calibri;-inkscape-font-specification:'Calibri Light';"
          y="506.24997"
          x="360"
          id="tspan936"
          sodipodi:role="line">הִפעִיל</tspan></text>
     <text
        xml:space="preserve"
-       style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-font-specification:Calibri;font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="360"
        y="533.23193"
        id="text942"><tspan
@@ -117,7 +119,9 @@
          id="tspan940"
          x="360"
          y="533.23193"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri">(hi)</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri;">(<tspan
+   style="-inkscape-font-specification:'Calibri Italic';font-family:Calibri;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan852">hi</tspan>)</tspan></text>
     <text
        xml:space="preserve"
        style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -128,32 +132,34 @@
          id="tspan944"
          x="440"
          y="506.24997"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, '">פִעֵל</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27px;font-family:Calibri;-inkscape-font-specification:'Calibri Light'">פִיעֵל</tspan></text>
     <text
        id="text950"
        y="533.23193"
        x="440"
-       style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-font-specification:Calibri;font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri;"
          y="533.23193"
          x="440"
          id="tspan948"
-         sodipodi:role="line">(pi)</tspan></text>
+         sodipodi:role="line">(<tspan
+   style="-inkscape-font-specification:'Calibri Italic';font-family:Calibri;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan854">pi</tspan>)</tspan></text>
     <text
        id="text954"
        y="506.24997"
        x="520"
        style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, '"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27px;font-family:Calibri;-inkscape-font-specification:'Calibri Light';"
          y="506.24997"
          x="520"
          id="tspan952"
          sodipodi:role="line">פָעַל</tspan></text>
     <text
        xml:space="preserve"
-       style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-font-specification:Calibri;font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="520"
        y="533.23193"
        id="text958"><tspan
@@ -161,21 +167,23 @@
          id="tspan956"
          x="520"
          y="533.23193"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri">(pa)</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri;">(<tspan
+   style="-inkscape-font-specification:'Calibri Italic';font-family:Calibri;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan856">pa</tspan>)</tspan></text>
     <text
        id="text962"
        y="506.24997"
        x="200"
        style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, '"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27px;font-family:Calibri;-inkscape-font-specification:'Calibri Light';"
          y="506.24997"
          x="200"
          id="tspan960"
          sodipodi:role="line">הֻפעַל</tspan></text>
     <text
        xml:space="preserve"
-       style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-font-specification:Calibri;font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="200"
        y="533.23193"
        id="text966"><tspan
@@ -183,7 +191,9 @@
          id="tspan964"
          x="200"
          y="533.23193"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri">(hu)</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri;">(<tspan
+   style="-inkscape-font-specification:'Calibri Italic';font-family:Calibri;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan858">hu</tspan>)</tspan></text>
     <text
        xml:space="preserve"
        style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -194,32 +204,34 @@
          id="tspan968"
          x="120"
          y="506.24997"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, '">פֻעַל</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27px;font-family:Calibri;-inkscape-font-specification:'Calibri Light';">פֻעַל</tspan></text>
     <text
        id="text974"
        y="533.23193"
        x="120"
-       style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-font-specification:Calibri;font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri;"
          y="533.23193"
          x="120"
          id="tspan972"
-         sodipodi:role="line">(pu)</tspan></text>
+         sodipodi:role="line">(<tspan
+   style="-inkscape-font-specification:'Calibri Italic';font-family:Calibri;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan860">pu</tspan>)</tspan></text>
     <text
        id="text978"
        y="506.24997"
        x="40"
        style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, '"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27px;font-family:Calibri;-inkscape-font-specification:'Calibri Light';"
          y="506.24997"
          x="40"
          id="tspan976"
          sodipodi:role="line">נִפעַל</tspan></text>
     <text
        xml:space="preserve"
-       style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-font-specification:Calibri;font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
        x="40"
        y="533.23193"
        id="text982"><tspan
@@ -227,7 +239,9 @@
          id="tspan980"
          x="40"
          y="533.23193"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri">(ni)</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri;">(<tspan
+   style="-inkscape-font-specification:'Calibri Italic';font-family:Calibri;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan862">ni</tspan>)</tspan></text>
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 280.5,548.74997 v 180"
@@ -260,24 +274,24 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="439.98145"
-       y="727.66138"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="440"
+       y="728.25"
        id="text998"><tspan
          sodipodi:role="line"
          id="tspan996"
-         x="439.98145"
-         y="727.66138"
+         x="440"
+         y="728.25"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri">актив</tspan></text>
     <text
        id="text1002"
-       y="727.66138"
-       x="119.98145"
-       style="line-height:1.25;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       y="728.07373"
+       x="119.69849"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri"
-         y="727.66138"
-         x="119.98145"
+         y="728.07373"
+         x="119.69849"
          id="tspan1000"
          sodipodi:role="line">пассив</tspan></text>
   </g>
