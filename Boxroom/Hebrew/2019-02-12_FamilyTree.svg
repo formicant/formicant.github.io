@@ -432,184 +432,185 @@
      transform="translate(0,-706.51966)"
      id="layer1">
     <g
-       id="g1517">
+       transform="translate(0.5,0.49997641)"
+       id="g1775">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="378.50006"
-         y="997.02002"
+         x="378.00006"
+         y="996.52002"
          id="text854"><tspan
            id="tspan852"
-           x="378.50006"
-           y="997.02002"
+           x="378.00006"
+           y="996.52002"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri">אימה</tspan></text>
       <text
          id="text858"
-         y="849.02002"
-         x="496.50006"
+         y="848.52002"
+         x="496.00006"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri"
-           y="849.02002"
-           x="496.50006"
+           y="848.52002"
+           x="496.00006"
            id="tspan856">הורים</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="476.50006"
-         y="773.02002"
+         x="414.00006"
+         y="772.52002"
          id="text878"><tspan
            id="tspan876"
-           x="476.50006"
-           y="773.02002"
+           x="414.00006"
+           y="772.52002"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri">סבא</tspan></text>
       <text
          id="text882"
-         y="773.02002"
-         x="398.50006"
+         y="772.52002"
+         x="316.00006"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri"
-           y="773.02002"
-           x="398.50006"
+           y="772.52002"
+           x="316.00006"
            id="tspan880">סבתא</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="182.50006"
-         y="827.02002"
+         x="182.00006"
+         y="826.52002"
          id="text894"><tspan
            id="tspan892"
-           x="182.50006"
-           y="827.02002"
+           x="182.00006"
+           y="826.52002"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri">אחות</tspan></text>
       <text
          id="text898"
-         y="885.02002"
-         x="182.50006"
+         y="884.52002"
+         x="182.00006"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri"
-           y="885.02002"
-           x="182.50006"
+           y="884.52002"
+           x="182.00006"
            id="tspan896">דודה</tspan></text>
       <text
          id="text906"
-         y="843.02002"
-         x="106.50007"
+         y="842.52002"
+         x="106.00007"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri"
-           y="843.02002"
-           x="106.50007"
+           y="842.52002"
+           x="106.00007"
            id="tspan904">בעל</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="412.43512"
-         y="887.86279"
+         x="411.93512"
+         y="887.36279"
          id="text910"><tspan
            id="tspan908"
-           x="412.43512"
-           y="887.86279"
+           x="411.93512"
+           y="887.36279"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri">סבתא</tspan></text>
       <text
          id="text914"
-         y="827.02002"
-         x="32.500065"
+         y="826.52002"
+         x="32.000065"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri"
-           y="827.02002"
-           x="32.500065"
+           y="826.52002"
+           x="32.000065"
            id="tspan916">גיס</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="112.50007"
-         y="975.02002"
+         x="112.00007"
+         y="974.52002"
          id="text922"><tspan
            id="tspan920"
-           x="112.50007"
-           y="975.02002"
+           x="112.00007"
+           y="974.52002"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri">ילדים</tspan></text>
       <text
          id="text926"
-         y="939.02002"
-         x="154.50006"
+         y="938.52002"
+         x="154.00006"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri"
-           y="939.02002"
-           x="154.50006"
+           y="938.52002"
+           x="154.00006"
            id="tspan924">אחיינים</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="119.90632"
-         y="996.96436"
+         x="119.40632"
+         y="996.46436"
          id="text930"><tspan
            id="tspan928"
-           x="119.90632"
-           y="996.96436"
+           x="119.40632"
+           y="996.46436"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri">בני דודים</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="264.50006"
-         y="885.02002"
+         x="264.00006"
+         y="884.52002"
          id="text938"><tspan
            id="tspan936"
-           x="264.50006"
-           y="885.02002"
+           x="264.00006"
+           y="884.52002"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri">דוד</tspan></text>
       <text
          id="text942"
-         y="843.02002"
-         x="250.50006"
+         y="842.52002"
+         x="250.00006"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri"
-           y="843.02002"
-           x="250.50006"
+           y="842.52002"
+           x="250.00006"
            id="tspan940">אח</tspan></text>
       <text
          id="text946"
-         y="939.02002"
-         x="532.50006"
+         y="938.52002"
+         x="532.00006"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri"
-           y="939.02002"
-           x="532.50006"
+           y="938.52002"
+           x="532.00006"
            id="tspan944">ילדים</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="532.50006"
-         y="997.02008"
+         x="532.00006"
+         y="996.52008"
          id="text958"><tspan
            id="tspan956"
-           x="532.50006"
-           y="997.02008"
+           x="532.00006"
+           y="996.52008"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri">אחים</tspan></text>
       <rect
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.66599995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1065"
          width="72.000008"
          height="31.999994"
-         x="332.50006"
-         y="723.02002" />
+         x="268"
+         y="722.51965" />
       <rect
-         y="723.02002"
-         x="460.50006"
+         y="722.51965"
+         x="396"
          height="31.999994"
          width="72.000008"
          id="rect1067"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.66599995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         y="835.02002"
-         x="12.5"
+         y="834.52002"
+         x="12"
          height="31.999994"
          width="72.000008"
          id="rect1069"
@@ -619,11 +620,11 @@
          id="rect1071"
          width="72.000008"
          height="31.999994"
-         x="140.49995"
-         y="835.02002" />
+         x="139.99995"
+         y="834.52002" />
       <rect
-         y="835.02002"
-         x="396.49994"
+         y="834.52002"
+         x="395.99994"
          height="31.999994"
          width="72.000008"
          id="rect1073"
@@ -633,11 +634,11 @@
          id="rect1075"
          width="72.000008"
          height="31.999994"
-         x="524.49994"
-         y="835.02002" />
+         x="523.99994"
+         y="834.52002" />
       <rect
-         y="835.02002"
-         x="268.49994"
+         y="834.52002"
+         x="267.99994"
          height="31.999994"
          width="72.000008"
          id="rect1077"
@@ -647,11 +648,11 @@
          id="rect1079"
          width="72.000008"
          height="31.999994"
-         x="12.500112"
-         y="947.02002" />
+         x="12.000112"
+         y="946.52002" />
       <rect
-         y="947.02002"
-         x="140.50008"
+         y="946.52002"
+         x="140.00008"
          height="31.999994"
          width="72.000008"
          id="rect1081"
@@ -661,11 +662,11 @@
          id="rect1083"
          width="72.000008"
          height="31.999994"
-         x="332.49997"
-         y="947.02002" />
+         x="331.99997"
+         y="946.52002" />
       <rect
-         y="947.02002"
-         x="460.50006"
+         y="946.52002"
+         x="460.00006"
          height="31.999994"
          width="72.000008"
          id="rect1085"
@@ -675,162 +676,162 @@
          id="rect1087"
          width="72.000008"
          height="31.999994"
-         x="588.5"
-         y="947.02002" />
+         x="588"
+         y="946.52002" />
       <rect
-         y="1059.02"
-         x="332.49997"
+         y="1058.52"
+         x="331.99997"
          height="31.999994"
          width="72.000008"
          id="rect1089"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.66599995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text1093"
-         y="857.02002"
-         x="48.499992"
+         y="856.52002"
+         x="47.999992"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          xml:space="preserve"><tspan
-           y="857.02002"
-           x="48.499992"
+           y="856.52002"
+           x="47.999992"
            id="tspan1091">אלברט</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="176.49994"
-         y="857.02002"
+         x="175.99994"
+         y="856.52002"
          id="text1097"><tspan
            id="tspan1095"
-           x="176.49994"
-           y="857.02002">קלרה</tspan></text>
+           x="175.99994"
+           y="856.52002">קלרה</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="304.49991"
-         y="857.02002"
+         x="303.99991"
+         y="856.52002"
          id="text1101"><tspan
            id="tspan1099"
-           x="304.49991"
-           y="857.02002">יעקב</tspan></text>
+           x="303.99991"
+           y="856.52002">יעקב</tspan></text>
       <text
          id="text1105"
-         y="969.02002"
-         x="368.49997"
+         y="968.52002"
+         x="367.99997"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          xml:space="preserve"><tspan
-           y="969.02002"
-           x="368.49997"
+           y="968.52002"
+           x="367.99997"
            id="tspan1103">רחל</tspan></text>
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-         d="M 136.50008,851.01997 H 88.500079"
+         d="M 136.00008,850.51995 H 88.000079"
          id="path1149" />
       <path
          id="path2815"
-         d="m 352.50002,1055.02 v -72"
+         d="M 352.00002,1054.52 V 982.51998"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2819)" />
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3709)"
-         d="m 496.50009,907.01997 v 36"
+         d="m 496.00009,906.51995 v 36"
          id="path3705" />
       <path
          id="path4299"
-         d="m 408.50009,943.01998 36,-36.00001 h 103.99999 l 36.00001,36.00001"
+         d="m 408.00009,942.51996 36,-36.00001 h 103.99999 l 36.00001,36.00001"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#marker4303)" />
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6145)"
-         d="m 408.50009,983.01998 36,36.00002 h 103.99999 l 36.00001,-36.00002"
+         d="m 408.00009,982.51996 36,36.00004 h 103.99999 l 36.00001,-36.00004"
          id="path6141" />
       <path
          id="path6375"
-         d="M 496.50009,1019.02 V 983.01993"
+         d="M 496.00009,1018.52 V 982.51991"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6379)" />
       <text
          id="text1503"
-         y="887.97876"
-         x="473.27277"
+         y="887.47876"
+         x="472.77277"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri"
-           y="887.97876"
-           x="473.27277"
+           y="887.47876"
+           x="472.77277"
            id="tspan1501">אימה</tspan></text>
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1509)"
-         d="m 384.50001,943.01964 72,-72.00001"
+         d="m 384.00001,942.51962 72,-72.00001"
          id="path1505" />
       <path
          id="path3161"
-         d="m 328.50009,1055.02 -20,-20 -10e-6,-26 m 0,-12.00002 10e-6,-42 23.99999,-24 m 8,-8.00001 52.00001,-52"
+         d="m 328.00009,1054.52 -20,-20 -10e-6,-26 m 0,-12.00004 10e-6,-42 23.99999,-24 m 8,-8.00001 52.00001,-52"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3165)" />
       <path
          id="path1089"
-         d="m 368.50009,943.01998 -10e-6,-42.00001 m 0,-12 v -68 m 0,-12 v -50"
+         d="m 368.00009,942.51996 -10e-6,-42.00001 m 0,-12 v -68 m 0,-12 -7e-5,-26.0003 -24,-24"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1093)" />
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1495)"
-         d="m 368.50008,783.01997 h 64 l 24,-24"
+         d="m 368.00008,782.51995 23.99993,-24.0003"
          id="path1491" />
       <text
          id="text2231"
-         y="1109.02"
-         x="368.50006"
+         y="1108.52"
+         x="368.00006"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;line-height:1.25;font-family:'Calibri Light';-inkscape-font-specification:'Calibri Light, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Calibri;-inkscape-font-specification:Calibri"
-           y="1109.02"
-           x="368.50006"
+           y="1108.52"
+           x="368.00006"
            id="tspan2229">אני</tspan></text>
       <path
          id="path2243"
-         d="m 216.50008,851.01997 h 48"
+         d="m 216.00008,850.51995 h 48"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2247)" />
       <path
          id="path2489"
-         d="m 352.50001,943.01964 -32,-32.00001 m -8,-8 -32,-32"
+         d="m 352.00001,942.51962 -32,-32.00001 m -8,-8 -32,-32"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2493)" />
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3225)"
-         d="m 328.50008,963.01998 h -14 m -12,0 h -6.00001 l -91.99999,-92.00001"
+         d="m 328.00008,962.51996 h -14 m -12,0 h -6.00001 l -91.99999,-92.00001"
          id="path3221" />
       <path
          id="path3899"
-         d="m 420.50008,831.01997 -16,-16 h -184 l -16,16"
+         d="m 420.00008,830.51995 -16,-16 h -184 l -16,16"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3903)" />
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4787)"
-         d="m 444.50008,831.01997 -32,-32 h -38 m -12,0 H 80.500069 l -32.000001,32"
+         d="m 444.00008,830.51995 -32,-32 h -38 m -12,0 H 80.000069 l -32.000001,32"
          id="path4783" />
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker5849);marker-end:url(#marker6693)"
-         d="M 88.500075,963.01998 112.5,939.01964 l 24.00007,24.00034"
+         d="M 88.000075,962.51996 112,938.51962 l 24.00007,24.00034"
          id="path5845" />
       <path
          id="path7295"
-         d="m 60.500069,943.01998 35.999992,-36.00001 h 72.000009 l 36.00001,36.00001"
+         d="m 60.000069,942.51996 35.999992,-36.00001 h 72.000009 l 36.00001,36.00001"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker7299);marker-end:url(#marker7477)" />
       <path
          id="path8409"
-         d="m 136.50007,871.01997 -24,24 v 6 m 0,12 -7e-5,25.99967"
+         d="m 136.00007,870.51995 -24,24 v 6 m 0,12 -7e-5,25.99967"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker8893);marker-end:url(#marker9089)"
-         d="M 176.50007,983.01998 140.50008,1019.02 H 96.500079 l -36.00001,-36.00002"
+         d="M 176.00007,982.51996 140.00008,1018.52 H 96.000079 l -36.00001,-36.00004"
          id="path8889" />
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 392.50001,847.01963 -20,20 m -8,8 -32,32 -85.99993,3.4e-4 m -12,0 h -66.00001"
+         d="m 392.00001,846.51961 -20,20 m -8,8 -32,32 -85.99993,3.4e-4 m -12,0 h -66.00001"
          id="path9481" />
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 328.50008,983.01998 -36,36.00002 H 140.50007"
+         d="m 328.00008,982.51996 -36,36.00004 H 140.00007"
          id="path9483" />
       <path
          id="path4156"
-         d="m 472.50002,851.01997 23.99993,23.99966 24.00006,-23.99966"
+         d="m 472.00002,850.51995 23.99993,23.99966 24.00006,-23.99966"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker4162);marker-end:url(#marker4370)" />
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 496.50008,907.01997 -7e-5,-32.00034"
+         d="m 496.00008,906.51995 -7e-5,-32.00034"
          id="path4158" />
     </g>
   </g>
